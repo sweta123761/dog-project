@@ -8,9 +8,7 @@ Responsive Design: The website is fully responsive and works on various devices,
 Bootstrap Components: Utilizes Bootstrap for styling and layout, ensuring a modern and clean design.
 Custom Animations: Includes custom animations to enhance user experience.
 
-Installation
-Clone the repository:
-git clone https://github.com/yourusername/tindog-project.git
+
 
 Navigate to the project directory:
 cd tindog-project
